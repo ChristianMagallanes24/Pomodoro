@@ -1,0 +1,14 @@
+.container{
+    background-color: red;
+    padding: 20px;
+    border-radius: 20px;
+}
+.number{
+    color: #fff;
+    font-size: 50px;
+}
+.btn-container{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
